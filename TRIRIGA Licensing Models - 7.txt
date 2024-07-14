@@ -1,0 +1,1498 @@
+
+TRIRIGA Licensing
+Models
+v3.5
+—
+First Lastname
+Job Title
+
+
+ While these slides can be used with clients, this PPT should NOT be used as-is. Most users will
+ want to select various parts based on the relevant discussion with a client/prospect
+Please note
+IBM’s statements regarding its plans, directions, and intent are subject to change or withdrawal without notice at IBM’s sole
+discretion.
+
+Information regarding potential future products is intended to outline our general product direction and it should not be relied on in
+making a purchasing decision.
+
+The information mentioned regarding potential future products is not a commitment, promise, or legal obligation to deliver any
+material, code or functionality. Information about potential future products may not be incorporated into any contract.
+
+The development, release, and timing of any future features or functionality described for our products remains at our sole
+discretion.
+
+IBM TRIRIGA can be used to help meet compliance obligations, which may be based on laws, regulations, standards or
+practices. Any directions, suggested usage, or guidance provided by IBM TRIRIGA does not constitute legal, accounting, or other
+professional advice, and each client is cautioned to obtain its own legal or other expert counsel. Use of IBM TRIRIGA does not
+guarantee compliance with any law, regulation, standard or practice.
+
+
+
+ 
+2   IBM TRIRIGA / © 2022 IBM Corporation
+Contents
+
+TRIRIGA Overview                                               04       SaaS – General                                              25
+Brief overview and summary of licensing options                         Overview of the growth and benefits of SaaS
+
+
+Containerization – General                                     11       SaaS – TRIRIGA                                              31
+Overview of growth and benefits of containerization                     How TRIRIGA is available in SaaS model
+
+
+TRIRIGA Application Suite (TAS)                                15       SaaS – TRIRIGA Deal Minimums                                47
+TRIRIGA Application Suite opens many new options for clients            Guidance on minimum sized deals for TRIRIGA SaaS
+
+
+                                                                        On–Premise                                                  52
+                                                                        Capabilities available through perpetual on-premise model
+
+
+
+
+  While these slides can be used with clients, this PPT should NOT be used as-is. Most users will
+  want to select various parts based on the relevant discussion with a client/prospect
+
+
+ 
+TRIRIGA Overview
+
+Strategic real estate optimizes operations and
+captures bottom-up facility data                                                       How should sustainability efforts
+                                                                                       be advanced?
+Should this building/asset
+be leased or owned?
+                                                                                       –   Utility consumption
+                                                                                       –   Environmental audits
+–   Real estate portfolio planning
+                                                                                       –   Track emissions
+–   Site selection
+                                                                                       –   ESG reporting
+–   Lease accounting regulations
+–   Lease administration                                                               How should we set up the space
+                                                                                       our people need?
+Do we have to build
+                                                                                       –   Dynamic space planning
+or make major renovations?
+                                                                                       –   Space forecasting
+–   Project management                                                                 –   Occupancy Monitoring
+–   Program management                                                                 –   Facility Utilization
+–   Vendor selection and bids
+–   Contractor management                                                              Can we make the occupant’s
+                                                                                       experience awesome?
+How do we to keep up
+with maintenance needs?                                                                – Space reservations through
+                                                                                         mobile or desk scan
+–   Provision service requests
+                                                                                       – Calendar integration
+–   Cleaning
+                                                                                       – Indoor wayfinding
+–   Corrective maintenance
+                                                                                       – AI assistant
+–   Condition maintenance
+                                                                                       – Interactive kiosks
+–   Warranty management                                                                  and room panels
+                                       …all of this and much more is managed through
+                                                  – Initiate service requests     5
+                                       Strategic Real Estate Asset Management
+TRIRIGA is the leading
+enterprise solution
+to manage real estate                                                        Populate
+                                                                                                   Administer
+                                                                                                   Real Estate
+                                                                                                                     Experience
+
+
+portfolios and operations
+                                                                           Portfolio Data
+
+
+
+
+                                                            Build-out                                                               Maintain
+
+
+
+
+TRIRIGA helps enterprises meet their operational
+needs, optimize costs, sustainability and the         Acquire                                     TRIRIGA
+                                                                                               Application Suite
+                                                                                                                                          Dispose
+
+
+workplace experience across real estate lifecycles.                                          Digital Twin Exchange
+                                                                                             Developer Ecosystem
+TRIRIGA integrates data and automates                                                            Hybrid Cloud
+
+processes through the complex lifecycle of how
+companies                                                 Technology                        Configuration            Additional Components
+
+
+• on-board facilities and the space they need             AI Asst, ML, NLP                  Navigation Builder       Reserve Room Panel
+
+                                                          IoT Connectors                    Portal Builder           Workplace Kiosk
+
+• utilize that space for their employees, partners        APIs                              Business Rules           Building Insights
+
+  or customers                                            UX / User Experience              Workflow Builder         Assistant
+
+                                                          BIM Connector                     Form Builder             Indoor Maps
+
+• ultimately dispose of it                                CAD Integrator                    Data Modeler             Reporting
+
+                                                          Outlook Connector                 State Family             Projects Mobile
+
+                                                          Esri Connector                    Approvals
+
+                                                                                                                                                    6
+TRIRIGA manages real estate
+throughout its lifecycle
+ On-Boarding                                                                    Utilize                                                                        Disposal
+
+                                                            Populate
+                                                                                   Administer
+       Acquire                  Build-out                   Portfolio                                         Experience                Maintain                      Dispose
+                                                                                   Real Estate
+                                                              Data
+
+
+– Portfolio assessment     – Estimate projects        – Populate location      – Abstract new leases      – Measure real time    – Manage work orders          – Portfolio assessment
+                                                        hierarchy                                           space use              and service requests
+– Identify requirements    – Prioritize and execute                            – Meet lease accounting                                                         – Identify space and
+– Search for potential       environmental            – Load floorplans from     regulations              – Validate space use   – Manage planned                facilities to relinquish
+                             improvement projects       CAD/BIM                                                                    maintenance
+  locations                                                                    – Manage lease financials – Initiate and manage                                 – Model space scenarios
+– Compare potential        – Establish and manage     – Load assets            – Track critical dates       moves                – Maintain parts inventory – Implement moves
+                             schedules                                                                    – Employee workplace   – Warranty management – Identify excess space
+  locations                                           – Manage space details   – Comply with lease
+– Justify lease or         – Manage proposals                                    terms
+                                                                                                            services portal      – Plan for facility             for disposal
+                                                      – Manage space
+  purchase decision        – Manage commitments         allocations            – Renegotiate leases       – Reserve work and       component lifecycle
+                                                                                                                                                               – Define and compare
+                             and payments                                                                   meeting space        – Manage facility
+– Exercise lease options                              – Assign seats           – Property mgt of leased                                                          downsize scenarios
+– Execute purchases        – Manage project risks,                               and owned properties
+                                                                                                          – Indoor wayfinding      condition index
+                                                                                                                                                               – Decide and execute
+                             changes and progress                                                         – Locate colleagues    – Plan and execute local      – Site remediation
+                           – Project close-out                                                                                     projects
+                                                                                                                                                               – Prepare site to sell or
+                                                                                                                                 – Identify environmental        return
+                                                                                                                                   improvement projects
+                                                                                                                                 – Track utility consumption
+
+
+…all capabilities are available out-of-box and
+are aligned to business processes through configuration                                                                                                                                     7
+Eliminating organization process and data silos reduces
+operational costs and improves strategic decisions
+
+
+
+
+                       75%             …of large enterprises draw
+                                       from more than 20 different
+                                                                               50%               …struggle with data
+                                                                                                 integration related to
+                                       data sources to inform                                    analytics and business
+                                       business intelligence,                                    intelligence platforms
+                                       reporting and analytics
+
+
+
+
+                                                 …the impact is a 30% loss in productivity from data silos in manual and
+Source: IBM Software, 2021.
+        Forrester 2022.                    electronic workflows as workers look for data and information to do their work
+                                                                                     8
+There are three options for licensing
+and deploying the TRIRIGA portfolio
+
+
+
+
+                     Application Suite                  SaaS                                 On-Premise
+
+  IBM provides a new flexible deployment   TRIRIGA is also available in SaaS        Enterprises can continue to deploy
+  and consumption model through the        running on IBM Cloud                     On Premise running TRIRIGA on
+  TRIRIGA Application Suite                                                         their own servers
+
+
+
+
+                                                                               ...all three options are developed
+                                                                                         from the same code base
+                                                                                    9
+IBM TRIRIGA licensing and
+deployment models
+                        TAS (Hybrid)                      SaaS                           On-Premise
+
+
+
+                                                                                           Customer
+                             Software
+                                                           IBM
+                 Subscription or Perpetual
+
+                                                      Infrastructure                        Software
+                                                                                       (Perpetual Licenses)
+                         Infrastructure
+
+                                                        Software                         Infrastructure
+                                                  (Subscription Licenses)
+                                                                            (Customer datacenter, 3rd-Party Hosting)
+                  Hosting Services
+            (IBM Consulting, IBM Partners)
+                                                     SRE Services                      Hosting Services
+                  BP Network           + GSI’s   (Excluding App Upgrades)               (IBM Partners)
+
+
+
+
+                                                                                  10
+Containerization – General
+
+
+
+
+  11
+What is Red Hat OpenShift?
+
+
+              OpenShift is a family of
+             containerization software
+         products developed by Red Hat.
+             Its flagship product is the    A software deployment model
+         OpenShift Container Platform —      that enables business value
+           an on-premises platform as a        and flexibility through the
+            service built around Linux      technical services and features
+           containers orchestrated and                 it provides
+           managed by Kubernetes on a
+         foundation of Red Hat Enterprise
+                        Linux.
+
+
+
+
+ 
+The IT infrastructure for business applications has
+progressively simplified enabling greater flexibility
+                Dedicated Hardware                                 Virtualization                     Containerization
+
+           App                     App        App         App            App           App
+
+
+       Operating                Operating   Operating   Guest OS      Guest OS       Guest OS   App           App         App
+        System                   System     System
+
+         Server                  Server      Server                Hypervisor                     Red Hat OpenShift
+
+                                                                      Operating                            Operating
+                                                                       System                               System
+
+                                                                    Infrastructure                       Infrastructure
+
+
+
+
+  Time
+                                                                                           13
+Containerized delivery on OpenShift provides
+expanded value coupled with reduced costs
+                                                            Value - ROI
+   Scale operations with                                                                  Manage Deployment
+   optimized resources                                                                    Lifecyle through single
+                                                                                          pane of glass
+   38%                lower
+                      infrastructure                                                                 increase in IT
+                      less IT staff time                                                  60%        administrator
+
+   35%
+                                                                                                     efficiency
+                      per application      Operations                     Management
+                      instance
+                                                              Secure
+                                                           & Integrated
+  Packaged with most up-                                                                  Production ready containers
+  to-date technology stack                                                                built with highest industry
+                                                                                          standards
+
+  80%                reduction in
+                     installation effort
+                                                                                           80%         faster time
+                                           Packaging                         Containers                to market
+
+
+
+                                                        Development – Cost
+Sources: Forrester, IDC, Ovum.
+                                                                                 14
+TRIRIGA Application Suite
+
+
+
+
+ For greater detail see the Guidelines for Packaging, Pricing, and Licensing of TRIRIGA Application Suite (TAS) :
+
+ IBM Sellers
+ https://ibm.seismic.com/Link/Content/DCjQ38F2V7jPJGhTP6dGGPGM9m2B
+
+ Partners
+ https://ibm.seismic.com/Link/Content/DCHG29HPVRcVqGTWc7J2XhBRMmVP
+
+
+
+
+                                                                               15
+The TRIRIGA portfolio meets all real
+estate and facility management needs
+
+
+Optimize lease                         Accelerate capital                  Improve workplace           Boost operations                 Reduce
+accounting                             projects                            experience                  efficiency                       energy costs
+
+– Site Selection                       – Program & Fund                    – Reservations              – Corrective & Preventive        – Utility Tracking &
+                                          Management                          management                 Maintenance Mgmt.                Energy Consumption
+– Transaction
+   Management                          – Cost Management                   – Space Management          – Condition Assessment           – Benchmarking
+                                                                                                         & Capital Planning
+– Lease Administration                 – Gantt Scheduling                  – Utilization insights                                       – GHG Emission
+                                                                                                       – Inventory Management             Tracking
+– Lease Accounting                     – Quality Management                – Service Requests
+                                                                                                       – Resource Planning              – LEED/BREEAM Cert.
+– Payment Processing                   – Vendor Engagement                 – Move Management
+                                                                                                                                        – Energy Optimization
+– FASB Compliance                      – Capital Planning                  – Strategic Planning
+
+
+
+Portfolio Data &                       – Geographies        – Organizations         – People        – Assets            – Documents          – Reporting & KPI’s
+Core Components                        – Locations          – Financials            – Work Orders   – Workflow          – GIS Mapping        – Transactions
+
+
+
+                                                                                                                           16
+The TRIRIGA Application Suite (TAS)
+offers simplification for our customers
+
+Simpler to buy…                          Simpler to deploy…     Simpler to use…              Simpler to manage…
+
+
+
+
+   A single            Enables more               Simple        Improved user     Built in    I can easily     Option to
+   contract           authorized users         installation &    interface our    usage      run it myself   have IBM run
+                          to utilize            deployment        customers      Reporting                     it for me
+                          software                                    love
+
+
+
+
+  Simplified                Option to          Continuous                 Seamless           Modernized       Software that
+   Pricing                term license          Platform                   add-ons           technology      runs anywhere
+                                                updates                                         stack           (hybrid)
+
+                                                                                    17
+TRIRIGA Application Suite significantly
+simplifies a complex portfolio
+                     Starting point                                                                Ending Point
+                     – Integrated suite of          – Separate contracts                           – Integrated suite of 5+   – 1 contract
+                       5+ modules                   – On-prem or SaaS                                modules                  – Hybrid provisioning
+                     – 800+ parts                                                                  – 1 part                     on OpenShift
+                     – 4+ pricing metrics                                                          – 1 pricing metric
+
+
+
+
+            Application Suite
+                                       On-Board                                          Use and                                      Dispos
+                                                                                         Manage                                          e
+
+                                                          Populate
+                                                                           Administer
+            Acquire                     Build-out         Portfolio                        Experience             Maintain           Dispose
+                                                                           Real Estate
+                                                           Data
+
+
+
+
+IBM TRIRIGA / © 2021 IBM Corporation                                                                                                                  18
+TAS brings
+                                       1. Single license             2. Flexible consumption                    3. Simplified usage
+simplified                             One entitlement to            AppPoints can be allocated to              Access applications without
+licensing and                          entire Suite                  different authorized user tiers            additional provisioning
+
+usage
+                                                                         Pool of AppPoints
+AppPoints can be                                                           units available for use
+used across suite
+Entitlement covers the
+entire suite. AppPoints
+are expended based
+on different active User
+types
+
+
+                                       Acquire   Build-out   Populate    Administer     Experience   Maintain   Dispose   Future
+                                                             Portfolio   Real Estate                                      Capabilities
+                                                              Data
+
+                                                                                                    19
+The TAS license model is built
+around four types of users
+
+ Self-Service Tiers                       Limited Tiers                     Base Tiers                     Configure Tier
+Self-service Applications              Includes Self-Service          Includes Limited Tier               Includes Base Tier
+                                       Base Tier +                    capabilities +                      capabilities +
+SS No-Charge User
+    • Initiate service requests        Limited User                   Base User                           Configure User
+                                         • Reports                      • All functional capabilities     • All functional capabilities +
+SS Limited User                          • Approvals                                                      • Full configuration
+    • No-Charge user functions +         • Field services functions   Base Occasional User                  capabilities
+    • Locate App                           (task management, space      • Same access as Base User,
+    • All additional self-service          assessments, etc.)             but limited to 60 hours/month
+      requests                                                            of usage
+    • News                             Limited Occasional User
+                                         • Same access as Limited
+SS Base User                               User, but limited to 60
+    • SS Limited user functions +          hours/month of usage
+    • Workspace and meeting
+      room reservations
+
+
+
+                                                                                                       20
+TAS AppPoint consumption tiers
+User has entitlement to use all                                                                                 Populate                     Administer
+                                                            Acquire / Dispose             Build-out                                                                  Experience                   Maintain
+apps/components in assigned tier                                                                              Portfolio Data                 Real Estate
+
+Self-Service No-charge                                                                                                                                                                     • Service requests
+                                                           • SS No-charge +         • SS No-charge +                                   • SS No-charge +         • SS No-charge +           • SS No-charge +
+Self-Service Limited Pack                                  • News                   • News                                             • News                   • Locate                   • News
+                                                           • Real Estate requests   • Project requests                                 • Real Estate requests   • News                     • Product requests
+2 AppPoints / pack of 500 users
+                                                                                                                                                                • Move requests
+
+Self-Service Base Pack                                                                                                                                          • SS Limited +
+                                                                                                                                                                • Room / desk
+10 AppPoints / pack of 500 users                                                                                                                                 Reservations
+
+                                                           • SS Base +              • SS Base +            • SS Base +                 • SS Base +              • SS Base +                • SS Base +
+Limited                                                    • Reports, metrics       • Reports, metrics     • Floorplan reports         • Reports, metrics       • Reports, metrics         • Reports, metrics
+                                                           • Approvals              • Approvals                                        • Approvals              • Approvals                • Approvals
+2 AppPoints / authorized user                              • Contract requests      • Vendor bid resp                                  • Contract requests      • Move/reserve tasks       • Work task exec
+OR
+2 AppPoints / pack of 3
+                                                           • Offline forms          • Change requests                                  • Offline forms          • Space assessment         • Contact center
+occasional authorized users                                                         • Project tasks                                                             • Offline forms            • Offline forms
+                                                                                    • Offline forms
+                                                           • Limited Tier +         • Limited Tier +       • Limited Tier +            • Limited Tier +         • Limited Tier +           • Limited Tier +
+                                                           • Advanced scenarios     • Cost mgt             • Drawing/model mgt         • RE lease admin         • Space planning           • FCA inspections
+                                                           • Transaction mgt        • Schedule mgt         • Energy Star               • AR tenant tracking     • Move mgt                 • O&M mgt
+Base                                                       • Portfolio planning     • Purchase order        benchmarking               • Payment processing     • Reserve coordination     • Model mgt
+                                                                                      approvals                                        • Generate journal       • Facility project mgt     • Asset lease admin
+5 AppPoints / authorized user                                                       • Procurement mgt                                    entries                • Strategic planning       • Facility project mgt
+OR                                                                                  • Program mgt                                                                                          • Facility condition
+5 AppPoints / pack of 3                                                             • Facility condition                                                                                    assessment
+occasional authorized users                                                           assessment                                                                                           • Work req from SNMP
+                                                                                                                                                                                            alerts
+                                                                                                                                                                                           • Energy/waste log mgt
+                                                                                                                                                                                           • Utility Invoice tracking
+Configure                                                                                                                  • Base Tier +
+10 AppPoints / authorized user
+                                                                                                                           • Configuration Tools
+
+Additional components
+                                                           Reserve Room Panel (2 AppPoints / 100 rooms)            ✦ Building Insights (x AP* / 25k sq ft)            ✦ Advanced Reporting (x AP* / instance)
+✦ components to be included        * AppPoint values yet                                                           ✦ Indoor Maps (x AP* / 25k sq ft)                  ✦ Projects Mobile (+x AP* / authorized user)21
+in future version of TAS           to be determined
+How is the TRIRIGA Application Suite Sold?
+Licensing Options
+
+
+                                       Subscription License
+                      Subscription        • Renewable annual license
+                        License           • Minimum 12 months, maximum 60 months
+                             “Lease”      • Can renew, modify size, or terminate contract at renewal date
+                                          • Predictable billing for budgeting license renewal fees
+                                          • Available as an upgrade from traditional TRIRIGA S&S on Passport Advantage
+
+
+
+
+                                       Perpetual License
+                         Perpetual        • Non-expiring license to use the software
+                          License         • Annual renewal payments for maintenance and support
+                               “Buy”      • Available as a trade-up from traditional TRIRIGA S&S on Passport Advantage
+
+
+
+
+                                                                                    22
+License Migration paths to move existing TRIRIGA customers to TAS
+Customer’s
+Existing                                                          Perpetual                               SaaS
+Licenses
+
+
+
+Seller                                                 Trade-up                         Upgrade         Wait until the      SaaS customers could
+                                                                                                                            move to TAS perpetual
+Actions                                                                                                 term expires        licenses, if desired.
+                                              Trade-ups are                   Upgrades are
+                                              for Perpetual                   for Subscription
+                                              licenses                        licenses
+
+
+
+
+Resulting
+TAS                                      TAS: Perpetual License                       TAS: Subscription License
+Licenses
+
+
+                                       Note that customers with Flexible Contract Term (FCT) licenses will first need to migrate to
+                                       Passport Advantage (PA) perpetual licenses before trading up or upgrading to TAS licenses.
+
+
+ 
+Why TRIRIGA Application Suite?
+
+
+
+
+Single source of truth                 Market leading                   Simplified usage model
+TRIRIGA has the insights               Named a leader in the            A new flexible model that
+you need - all in a natively           2022 Verdantix Green             simplifies buying,
+integrated solution.                   Quadrant for IWMS. IBM is        deployment, usage and
+                                       cited for innovation,            management
+                                       functionality, flexibility and
+                                       expertise.
+
+
+
+
+                                                               24
+SaaS – General
+
+
+
+
+  25
+The adoption of SaaS                   …with big transitions in real estate and
+applications is exploding…             facilities management
+
+                                                       The overall market will grow at
+                                                            11.4% CAGR
+                                                       over the same period
+Projected growth
+                                       Source: IDC, 2023.
+
+to $377b with
+
+16.2% CAGR                                             SaaS deployment from organic growth and
+                                                       existing base will accelerate by
+                                                            19.2% CAGR
+over the next five years
+                                                       While on-premise deployment will decline at
+                                                            4.4% CAGR
+                                                       over the same period
+
+Source: IDC, 2022.                     Source: IDC, 2023.
+
+                                                                26
+Not surprisingly, the pandemic has sped up cloud
+adoption, but for many, a clear strategy remains elusive
+                                Cloud adoption strategy
+                                                                                                                      Estimate of time it will take for organization to
+                                       53%                                                                            realize its long-term cloud strategy/goals
+             We have a clear strategy
+                    with a roadmap and
+           priorities for cloud adoption                              43%                                   3 Years
+                                                                                                            Median
+                                                                      We have begun formulating a
+                                                                      strategy but most work is still
+                                                                      done opportunistically to address
+                                                                      the most pressing needs
+                                                                                                          Effect of pandemic on pace of organization’s cloud adoption
+
+                                                                                                             Slow
+
+
+
+                                                                                                            21%                     21%                     58%
+                                        We do not have a cohesive                                           Slowed down             No impact               Sped up
+                                  3%    strategy for cloud adoption                                         (Net)                                           (Net)
+
+
+
+Source:     IBM Transformation Index: State of Cloud
+            IBM Institute for Business Value, 2022.
+
+                                                                                                                                     27
+Business value for cloud adoption
+has so far been elusive
+
+                                                                                                                   Top 3 Enablers
+                                                          Ability to deploy workloads to the most appropriate environment                  35%
+
+                                                            Ability to more rapidly bring to market/make material changes             29%
+
+                                                                              Optimization of IT vendors to improve costs            26%
+
+                                                                                      Simplification of our IT management            25%
+
+                                                                            Ability to deliver the same quality of service…          25%
+
+                                                                        Attracting, developing, and retaining the people…            25%
+
+                                                       Greater speed with which we can deploy new business applications              25%
+
+                                                              Consolidation of IT vendors to simplify vendor management              25%
+
+                                                                       Making material (not incremental) improvements…              21%
+
+                                                                  “Right-sizing” our owned infrastructure and data centers          21%
+                What cloud adoption
+            has enabled for organization...                   Delivering business value rather than “keeping the lights on”         20%
+Source:     IBM Transformation Index: State of Cloud
+            IBM Institute for Business Value, 2022.
+
+                                                                                                            28
+SaaS adoption offers many benefits
+
+                                                                                                        47
+                                                                                                        companies in Fortune
+Lower cost of ownership:               Faster time to value:             Scalability:                   50 are supported
+Reduce IT overhead and                 Rapid deployment of planning,     Add users as needed without    by IBM SaaS
+increase utilization rates using       budgeting, forecasting, score-    worrying about procuring new
+less hardware.                         carding and analysis              hardware and other
+                                       capabilities, so that users can   infrastructure components.
+                                       make productive use of the
+                                       software more quickly.
+
+
+
+
+Less strain on IT                      Cost accounting:
+resources:                             Eliminate up-front
+Because your internal IT               expenditures and ongoing costs
+organization does not need             for capital equipment, software
+to install or operate the cloud-       licenses, and IT infrastructure
+based solution, you can reduce         and resources.
+or bypass any IT backlog.              Shift costs from capital
+                                       to operating expenses.
+                                                                                          29
+SaaS deployment offers several advantages
+over traditional On-Premises model
+                                                              SaaS (Hosted, subscription)                                 Traditional (On-prem, perpetual)
+  OPEX vs. CAPEX                                              Operational Expense                                         Capital Expense
+  Skill/Staffing Requirements                                 Lower                                                       Higher
+  Maintenance Costs                                           Included in subscription                                    15-30% of license cost per year
+                                                              Automatic platform / technology upgrades
+  Upgrades and patches                                                                                                    Customer responsibility, cost
+                                                              Application upgrades, based on setup options
+  Support and infrastructure                                  Included – focus on business                                Customer responsibility, cost
+  Easy to use and perform proof-of-concepts                   Test before buying                                          Customer responsibility, cost
+
+
+                                                                            SaaS              Traditional
+
+
+      License (CAPEX)                      Maintenance,                                   Upgrades
+      & implementation                    support staffing,
+                                         and infrastructure                                                                                        SaaS offers flatter,
+                                                                                                                                                    more predictable
+                                                                                                                                                         costs
+
+
+                                Year 1    Year 2                   Year 3                Year 4                Year 5                 Year 6
+
+
+                    Low initial - OPEX                                                                      Low, predictable yearly costs
+
+                                                                                                                                     30
+SaaS – TRIRIGA
+
+
+
+
+ For greater detail see the Guidelines for Packaging, Pricing, and Licensing of TRIRIGA :
+
+ IBM Sellers
+ https://ibm.seismic.com/Link/Content/DCf34QqJFf4cgGQ2P63HHd8DMpb8
+
+ Partners
+ https://ibm.seismic.com/Link/Content/DCd4jBJpRDDdcG9RBVdHJggM96T8
+
+
+
+ See TRIRIGA Reference Library for SaaS references:
+ https://ibm.seismic.com/Link/Content/DCfdG8Tmfg9FX89WP3QDV6CW6hj8
+
+
+
+
+                                                       31
+The TRIRIGA portfolio meets all real
+estate and facility management needs
+
+
+Optimize lease                         Accelerate capital                  Improve workplace           Boost operations                 Reduce
+accounting                             projects                            experience                  efficiency                       energy costs
+
+– Site Selection                       – Program & Fund                    – Reservations              – Corrective & Preventive        – Utility Tracking &
+                                          Management                          management                 Maintenance Mgmt.                Energy Consumption
+– Transaction
+   Management                          – Cost Management                   – Space Management          – Condition Assessment           – Benchmarking
+                                                                                                         & Capital Planning
+– Lease Administration                 – Gantt Scheduling                  – Utilization insights                                       – GHG Emission
+                                                                                                       – Inventory Management             Tracking
+– Lease Accounting                     – Quality Management                – Service Requests
+                                                                                                       – Resource Planning              – LEED/BREEAM Cert.
+– Payment Processing                   – Vendor Engagement                 – Move Management
+                                                                                                                                        – Energy Optimization
+– FASB Compliance                      – Capital Planning                  – Strategic Planning
+
+
+
+Portfolio Data &                       – Geographies        – Organizations         – People        – Assets            – Documents          – Reporting & KPI’s
+Core Components                        – Locations          – Financials            – Work Orders   – Workflow          – GIS Mapping        – Transactions
+
+
+
+                                                                                                                           32
+IBM TRIRIGA is available as a
+SaaS offering on IBM Cloud
+Hosted by IBM
+
+
+
+
+  33
+TRIRIGA SaaS is a cloud offering managed by IBM,
+and paid for through a subscription basis
+                                Perpetual License Model                                     Software as a Service
+         Customer makes all buying decisions and is integrator and          Customer need only consider application buying decision,
+         maintainer of all components throughout the IT value stack               while IBM manages the rest of the IT stack
+
+
+                       TRIRIGA Applications                                         TRIRIGA Application
+
+                          TRIRIGA Platform                                           TRIRIGA Platform
+
+                               Middleware                                               Middleware
+                                                          Integration
+                                                                                     Operating System                  Pre-packaged and
+                          Operating System
+                                                                                                                       managed by IBM
+                           Servers, Storage                                           Servers, Storage
+
+                       Network Infrastructure                                      Network Infrastructure
+
+
+     – Customer choice of software stack based on available             – Customer IT resources are reduced based on IBM managing
+       supported versions                                                 components
+     – Customer is responsible for supporting entire stack
+
+
+                                                                                                     34
+TRIRIGA SaaS is
+offered as a single
+tenant instance
+Included in Standard Offering                      Optional Product Offerings                    Optional Services Offerings
+
+– One production instance                          – Optional user Licenses                      Implementation Services:
+– One non-production instance                      – Additional non-production instances         – Applications & Configuration Services
+– VPN and e-mail for integrations to other tools   – TRIRIGA Reporting subscription              – VPN configuration
+  and systems (if required)                        – TRIRIGA Building Insights subscription      – LDAP configuration
+– Application upgrades for ‘As-Shipped’            – TRIRIGA Assistant subscription              – Integrations
+  customers (all configuration overridden)
+                                                   – TRIRIGA Capital Projects Hub subscription   – Data transformation and migration
+– Systems admin, patching, maintenance
+                                                   – IBM TRIRIGA Connector for Esri ArcGIS       Application Administration Services:
+– Daily backups of data and configurations
+                                                   – Indoors Subscription                        – Managing users, security groups, etc.
+– Platform upgrades
+                                                                                                 Application upgrades for
+– Access to current release function                                                             “Fully Configurable” customers
+– 99.9% Availability Service Level Objective                                                     Managed Services
+– 99.9% Availability SLA                                                                         (BP’s, IBM Consulting)
+– 24 X 7 support for Sev 1 / Forum email support
+  for Sev 2-4
+
+                                                                                                      35
+TRIRIGA SaaS hosting
+
+
+
+
+           The TRIRIGA SaaS team has          Delivered on IBM Cloud                Virtualized server deployments
+           over 10 years experience with      Infrastructure                        with options for bare metal
+           TRIRIGA in the Cloud and is
+           solely focused on this offering
+
+
+
+
+           The team supports global clients   Domain expertise – managed            Dedicated application
+           delivering solutions within IBM    service for both infrastructure and   and database instances
+           Cloud                              operational support
+
+                                                                                36
+Services provide by IBM Site
+Reliability Engineering (SRE)
+– Technical resources with deep                                                                 – Global high-speed network
+   domain experience of systems                                                                   On-demand bandwidth
+   and database admin for TRIRIGA
+                                                                                                – High-performance enterprise servers
+– Standard IBM Support services
+   backed by dedicated staff
+                                                                                                – High-speed caching & content
+   for 24x7 severity 1                                Support        Performance                  acceleration
+
+
+
+                                                                                                – High availability Server Platforms
+   Comprehensive systems monitoring,                              IBM                           – Redundant network connectivity
+   including application, database,          Monitoring         TRIRIGA          Availability
+   servers and backups                                            SRE                           – Standard Service Level Objective
+                                                                                                  99.9% availability with higher SLO
+                                                                                                  options available
+
+
+                                                        Data
+                                                                          Security
+– Daily incremental and full                          Protection                                – 24x7 Data Centre video surveillance
+   weekly backups, on encrypted media,
+                                                                                                – Proximity & Biometric access control
+   offsite rotation, three-month retention
+                                                                                                – Secured server cages
+– Field encryption
+– Enhanced Disaster Recovery                                                                    – Highly secured firewalls
+   options available                                                                            – Managed firewall services
+                                                                                                – SSL secured connectivity
+                                                                                                    37
+SaaS licensing model enables
+several types of users
+
+
+
+Self-Service                           Approvals and                     Field                             Enterprise
+User                                   Reporting User                    Services                          User
+
+Create requests, create                Participate in approval           Participate in execution          Participate in all implemented
+reservations, search knowledge         processes, monitor performance    processes such as completing      business processes and
+base, respond to bid requests,         metrics, view reports with read   moves, space assessments,         administrative functions.
+search locations, people,              only access to data and           contract requests, vendor bids,
+and assets.                            functions of Self Service.        work task execution and change
+                                                                         requests.
+
+Authorized User                        Authorized User                   Authorized and Concurrent User    Authorized and Concurrent User
+                                                                                                           Occasional Authorized User
+
+
+
+
+                                                                                                       38
+                                                                                                                                                  User has entitlement to use all apps/
+IBM TRIRIGA SaaS licensing tiers                                                                                                                  components within assigned tier
+
+User has entitlement to use all                                                                                Populate                  Administer
+                                                  Acquire / Dispose              Build-out                                                                          Experience                  Maintain
+apps/components in assigned tier                                                                             Portfolio Data              Real Estate
+Self-Service No-charge                                                                                                                                                                   • Service requests
+                                                 • SS No-charge +          • SS No-charge +                                         • SS No-charge +           • SS No-charge +          • SS No-charge +
+                                                 • News                    • News                                                   • News                     • Locate,                 • News
+                                                 • Real estate requests    • Project requests                                       • Real Estate requests     • News                    • Product requests
+Self-Service /
+                                                                                                                                                               • Room and desk
+Authorized User                                                                                                                                                 reservations
+                                                                                                                                                               • Room panel
+                                                                                                                                                               • Move requests
+                                                 • Self-Service +          • Self-Service +                                         • Self-Service +           • Self-Service +          • Self-Service +
+                                                 • Read-only access        • Read-only access                                       • Read-only access         • Read-only access        • Read-only access
+Approvals and Reporting /
+                                                 • Basic reporting         • Basic reporting                                        • Basic reporting          • Basic reporting         • Basic reporting
+Authorized User                                  • Approvals               • Approvals                                              • Approvals                • Approval                • Approvals
+                                                 • Performance metrics     • Performance Metrics                                    • Performance metrics      • Performance metrics     • Performance metrics
+                                                 • Self Service+           • Self Service +               • Self Service +          • Self Service +           • Self Service +          • Self Service +
+Field Services /                                 • Reports, metrics        • Vendor bid response          • Floor plan reports      • Contract requests        • Move/reserve tasks      • Work task exec
+Authorized and Concurrent User                   • Contract requests       • Change requests                                                                   • Floor plan reports      • Contact center
+                                                                           • Project tasks                                                                     • Space assessment
+                                                 • Apprv & Report Tier +   • Apprv & Report Tier +        • Apprv & Report Tier +   • Apprv & Report Tier +    • Apprv & Report Tier +   • Apprv & Report Tier +
+                                                 • Field Services Tier +   • Field Services Tier +        • Field Services Tier +   • Field Services Tier +    • Field Services Tier +   • Field Services Tier +
+                                                 • Advanced scenarios      • Cost mgt                     • Drawing/model mgt       • RE Lease admin           • Space planning          • FCA inspections
+                                                 • Transaction mgt         • Schedule mgt                 • Energy Star             • AR Tenant tracking       • Drawing/model mgt       • O&M mgt
+Enterprise User /                                • Portfolio planning      • Purchase order                benchmarking             • Payment processing       • Move mgt                • Model mgt
+Authorized and Concurrent User                                               approvals                                              • Create journal entries   • Reserve coordination    • Asset lease admin
+Occasional Authorized User                                                 • Procurement mgt                                                                   • Facility project mgt    • Facility project mgt
+                                                                           • Program mgt                                                                       • Strategic planning      • Facility Condition
+Concurrent Users do NOT have access to self-                               • Facility Condition                                                                                           Assessment
+service reservations, offline, and application                               Assessment                                                                                                  • Work req from SNMP
+builder tools                                                                                                                                                                             alerts
+                                                                                                                                                                                         • Energy/waste log mgt
+                                                                                                                                                                                         • Utility Invoice tracking
+                                                 ✦ Advanced Reporting      ✦ Capital Projects Hub                                                              ✦ Building Insights
+Premium Licenses                                  ($ / install)            ($ / authorized/concur user)                                                        ($/ 25k sq ft)
+                                                                                                                                                                                                                  39
+SaaS Flex offers enterprises
+greater flexibility to run TRIRIGA
+TRIRIGA SaaS focuses on standardization, low TCO and quicker implementation.
+SaaS Flex adds additional flexibility with customized hosting                                                                                        Differences
+
+
+        Product and                                                                           Infrastructure         TRIRIGA SaaS        TRIRIGA SaaS Flex
+                                       TRIRIGA SaaS           TRIRIGA SaaS Flex
+          Services                                                                        Dedicated Servers /
+                                                                                                                           YES                     YES
+ All Product Functionalities                   YES                      YES               Infrastructure
+
+ Support for Platform and               Current Version(s)     Current and Limited Back   LDAP Authentication /
+                                                                                                                           YES                     YES
+ Application Versions                         Only                    Version(s)          SSO / SAML
+
+ External Integrations                         YES                      YES               Site-to-Site (Ipsec) VPN
+                                                                                                                           YES                     YES
+                                                                                          Support
+                                                                Custom class files not
+                                                              managed through TRIRIGA     Support for Database
+                                                                                                                         DB2 Only              DB2, Oracle
+ Complex / Advanced                                             custom class loaded;      Platforms
+                                               NO
+ Integrations                                                    specific WebSphere
+                                                                                          Java EE Platform              WebSphere              WebSphere
+                                                               advanced configuration;
+                                                              custom SSO requirements     Server Operating System          Linux                  Linux
+
+ TRIRIGA Platform                                                                                                    1 PROD, 1 or more    1 PROD, 1 or more Non-
+                                         Performed by IBM         Performed by IBM        Environments                  Non-PROD(s)             PROD(s)
+ Upgrades
+ TRIRIGA Application                       Performed by                                   Support for 3rd Party
+                                                               Performed by Customer                                        NO              IBM Approved Only
+ Upgrades                                   Customer                                      Application
+
+ Client/Implementer Access              Read-Only access to   Read-Only access to PROD    Separate Reporting
+                                                                                                                            NO                     YES
+ to Database                           PROD and Non-PROD           and Non-PROD           Database
+
+                                                                                                                              40
+What is included in TRIRIGA SaaS Flex?
+TRIRIGA SaaS Flex Offering
+TRIRIGA SaaS Flex Premium Authorized User
+                                                                                                                                    Additional SOW
+Additional Components:
+                                                                                                                                    Services
+– Support of Customizations                                  – Provisioned in a dedicated               – Supports Single Sign-On   – Upgrade Services
+  and 3rd Party Applications *                                 IBM Cloud instance                         (SSO)
+                                                                                                                                    – Database Conversion
+– Oracle Database Support **                                 – Supports custom class
+                                                               deployment                                                           – Integrations, Reports,
+                                                                                                                                      Configuration, Automation
+                                                                                                                                      Scripts
+TRIRIGA SaaS Flex Occasional Authorized User                                                                                        – 3rd Party Application
+Same Additional Components as Authorized User (see above)                                                                             Infrastructure
+
+                                                                                                                                    – High Availability
+TRIRIGA SaaS Flex Premium Concurrent User                                                                                             (e.g. 99.9 or 99.99) or
+Same Additional Components as Authorized User (see above)                                                                             enhanced Disaster
+                                                                                                                                      Recovery Options
+
+                                                                                                                                    – Reporting Servers
+
+
+
+* If 3rd party application requires additional infrastructure that will be priced separately in a SOW
+** Customer provided Oracle license
+
+                                                                                                                             41
+When should customers
+consider SaaS Flex?
+Flex Required for:                                                       Flex Full Access Development Environment is Required For:
+
+
+
+Flex Full Access Development           Customizations or any 3rd party   Supporting custom class files,   Database access and SQL tools
+Environment is Required For:           applications in the image         configurations etc.              > Read/Write to dev database,
+                                                                                                          Read access to other databases
+
+
+Maintaining an older version           Using Oracle                      Windows server accessed
+of TRIRIGA                             database                          through Remote Desktop           BIRT Report
+                                                                         Connection                       Development
+
+
+“Locking down” a configuration –       Bridge to Cloud candidates
+not taking regular updates             w/ customizations                 WebSphere console access >
+                                                                         Stop and start WAS of the dev
+                                                                         environment
+
+Using a 3rd party report writing       Integration with IBM’s
+tool other than BIRT                   Cognos analytics tool
+
+
+                                                                                                 42
+TRIRIGA  SaaSover
+ TRIRIGASaaS       IBMCloud
+              overIBM  Cloudlocations
+                              locations
+                                          Hosted in state-of-the-art
+                                          IBM Cloud data centers at:
+
+
+                                          -Australia, Canada, France,
+                                          Netherlands, Singapore,
+                                          United Kingdom, United
+                                          States
+
+
+                                          Backup available on all
+                                          hosted locations.
+
+
+                                          Operations available at:
+                                          Australia, Brazil , Canada,
+                                          China, India, Ireland,
+                                          United States.
+
+
+
+
+                                   43
+TRIRIGA SaaS Security                                                           Self Service Users        Internet          IBM Cloud
+
+(Hosted on IBM Cloud)
+                                                                                                        HTTPS Session
+
+
+– Each client implemented              – Physical security includes
+  in a private VLAN in IBM               24-hour surveillance,                  End Users
+  Cloud                                  perimeter security
+– Access of end users and              – All data centers are IBM
+  process users via a secured            owned and operated, and all
+  SSL (HTTPS) connection                 staff are IBM employees
+– Firewalls for secure access          – Received IBM                           Role-based Staff:
+  & isolation; Isolation of WAS          Inter-Enterprise Security
+                                                                                –   Space Planners
+  and DB Servers using                   (IES) approval
+                                                                                –   Lease Accountants
+  IPSEC firewall                                                                                                          TRIRIGA - SaaS
+                                                                                –   Maintenance
+– Host Intrusion Detection                                                          Managers
+  to identify and eliminate                                                     –   Project Managers
+  any DoS attacks
+                                                                                Administrator/Manager
+
+
+                                                                                                               Firewall
+
+
+
+
+                                  IBM SaaS Security                                                   44
+                                                                       Principles
+Security is our #1 priority                                             In the latest Verdantix Green Quadrant report on Facility
+                                                                        Management software vendors, TRIRIGA is the highest
+                                                                        rated offering for Application and Data Center Security
+
+
+Our Security and Privacy practices are documented here                  The privacy of your data is important
+
+– IBM data center resources are monitored 24x7 by IBM staff.            – Client data belongs to the client.
+– Internal and external vulnerability scanning is regularly conducted   – IBM does not use client data, except to deliver client services
+  to help detect and resolve potential system security exposures.         and support
+– Malware detection (antivirus, intrusion detection, vulnerability      – Access to client data is limited to authorized IBM support
+  scanning, and intrusion prevention) systems are in place throughout     representatives
+  all IBM data centers.
+                                                                        – All connections are encrypted channels when accessing client data.
+– IBM’s data center services support a variety of secure information
+                                                                        – IBM has not provided client data to any government agency under any
+  delivery protocols for transmission of data over public networks
+                                                                          surveillance program involving bulk collection of content or metadata.
+– Backup data intended for off-site storage is encrypted prior
+  to transport.
+– IBM has a worldwide security incident handling process
+  that is monitored 24 x 7 x 365.                                       – IBM Online Privacy                     – Your Rights
+– IBM employees receive yearly security education and are required        Statement
+                                                                                                                 – List of IBM Cloud Certified
+  to comply with corporate Business Conduct Guidelines.                 – Personal Information We                  ISO services
+                                                                          Collect and Use
+                                                                        – Information Security and
+                                                                          Retention
+
+                                                                                                            45
+Limitations /
+Restrictions
+                                       Provisioned environment is 64-         All communications               No direct access to the server-
+                                       bit, RedHat Enterprise Linux 6.0,      are over HTTPS                   side file systems, database,
+                                       WebSphere, DB2. Customers                                               or application server
+                                       cannot request other operating
+                                       systems, application servers,
+                                       or databases.
+
+
+
+
+                                       Change Request or Ticket               Read Only Admin Console Access   English as the base language.
+                                       should be submitted to DevOps                                           Additional Language Packs
+                                                                              –Log file
+                                       for activities tied to file systems,                                    can be loaded on demand.
+                                                                              –Properties files
+                                       database or application                                                 Customer should submit a ticket
+                                                                              –Usage
+                                       server settings                                                         through the SaaS support portal.
+                                                                              –Etc.
+
+
+
+
+                                                                                                            46
+SaaS – TRIRIGA Deal Minimums
+
+
+
+
+ For greater detail see the Guidelines for Packaging, Pricing, and Licensing of TRIRIGA :
+
+ IBM Sellers
+ https://ibm.seismic.com/Link/Content/DCf34QqJFf4cgGQ2P63HHd8DMpb8
+
+ Partners
+ https://ibm.seismic.com/Link/Content/DCd4jBJpRDDdcG9RBVdHJggM96T8
+
+
+
+ See TRIRIGA Reference Library for SaaS references:
+ https://ibm.seismic.com/Link/Content/DCfdG8Tmfg9FX89WP3QDV6CW6hj8
+
+
+
+
+                                                       47
+Minimum Annual Contract
+Value (ACV) Requirement
+
+                                                                                         Maximum     Maximum   Minimum ACV
+Minimums                                                         Environment
+                                                                                        Concurrent    Active     (w/o Add-
+                                                                 Size
+• Multi-Tiered, based on ceilings for maximum concurrent                                  Users       Leases    Ons) USD
+    users (excluding self-service users) AND maximum active
+                                                                 Small                        200     1,800      $100,000
+    leases
+                                                                 Medium                       450     18,000     $165,000
+• Ratio of authorized to concurrent users is 3:1
+    (example, 30 authorized users = 10 concurrent users)         Large                       1500     30,000     $225,000
+
+• Add-ons (like non-production instances, reporting,             Seed & Grow*                 200     1,800      $79,000
+    hardware, services, etc.) will raise minimums further (see
+    next slide)
+                                                                 *Seed & Grow – see detail slide
+
+• Minimums are Net Revenue to IBM, after partner share
+
+• Expert Labs fee for deals over 150K (strongly
+    recommended)
+
+
+
+                                                                                        48
+Add-ons further raise the minimums
+
+
+                                                                                                        Minimum
+Tiered Environments                                                                                    Additional
+                                             Part
+                                                       Environment Size                                Annual Net
+• Each client environment sized based on    Number
+                                                                                                        Revenue
+    number of users and leases                                                                            USD
+                                                      Additional Non-Prod for Small or Seed-and-Grow
+• Each client environment includes 1                                                                    $10,250
+                                                      environment
+    PROD instance and 1 NON-PROD           D20WVELL Additional Non-Prod for Medium environment          $15,000
+    instance at no additional charge
+                                                      Additional Non-Prod for Large environment         $17,500
+• Sizing for each NON-PROD instance        D20DKLL    BAREMETAL SERVER DEPLOYMENT INSTANCE              $16,575
+    based on expected number of
+                                           D20DMLL    ADD-ON REPORTING DATABASE INSTANCE                $25,000
+    concurrent users or active leases
+                                           D20DNLL    IBM SFTP ACCOUNTS INSTANCE                        $10,500
+• Add-ons will raise minimums further      D20DPLL    VPN IPSEC TUNNEL SETUP INSTANCE                   $20,750
+                                           D20DQLL    IP WHITELISTING INSTANCE                          $21,000
+                                                      ENHANCED DISASTER RECOVERY ADD-ON
+                                           D20DRLL                                                      $58,000
+                                                      INSTANCE
+                                                      AVAILABILITY FOR NON-PRODUCTION SYSTEMS
+                                           D20LHLL                                                      $33,000
+                                                      INSTANCE
+
+                                                                               49
+Detail for Seed & Grow opportunities
+
+•       This is not a trial
+
+•       Minimum net ACV, without add-ons, must be USD 79,000
+
+•       Expectation set at beginning that account will grow to at least USD 100,000 ACV (plus add-ons) within 12 months
+
+•       Get approval from L0 reviewer [currently Anand Nayak] before submitting bid in SQO
+
+
+Terms & Conditions
+    •     Identify as Seed and Grow (S&G) in SQO Sales tab
+
+    •     Limit term to 12 months
+
+    •     Renewal Type must be set to Terminate
+
+    •     When customer renews at standard ACV, Rep/BP will get compensated on “expansion”
+
+    •     No Expert Labs Fees apply to S&G
+
+                                                                                     50
+Recommendations
+
+
+• Qualify deals early for alignment with revenue objectives
+• Size your customer by concurrent users and/or leases
+• Seed & Grow quotes need L0 approval before submission
+• For Medium and Large deals, include at least one additional non-production
+     instance
+
+
+
+
+                                          51
+On–Premise
+
+
+
+
+ For greater detail see the Guidelines for Packaging, Pricing, and Licensing of TRIRIGA :
+
+ IBM Sellers
+ https://ibm.seismic.com/Link/Content/DCf34QqJFf4cgGQ2P63HHd8DMpb8
+
+ Partners
+ https://ibm.seismic.com/Link/Content/DCd4jBJpRDDdcG9RBVdHJggM96T8
+
+
+
+ See TRIRIGA Reference Library for On–Premise references:
+ https://ibm.seismic.com/Link/Content/DCfdG8Tmfg9FX89WP3QDV6CW6hj8
+
+
+
+
+                                                       52
+The TRIRIGA portfolio meets all real
+estate and facility management needs
+
+
+Optimize lease                         Accelerate capital                  Improve workplace           Boost operations                 Reduce
+accounting                             projects                            experience                  efficiency                       energy costs
+
+– Site Selection                       – Program & Fund                    – Reservations              – Corrective & Preventive        – Utility Tracking &
+                                          Management                          management                 Maintenance Mgmt.                Energy Consumption
+– Transaction
+   Management                          – Cost Management                   – Space Management          – Condition Assessment           – Benchmarking
+                                                                                                         & Capital Planning
+– Lease Administration                 – Gantt Scheduling                  – Utilization insights                                       – GHG Emission
+                                                                                                       – Inventory Management             Tracking
+– Lease Accounting                     – Quality Management                – Service Requests
+                                                                                                       – Resource Planning              – LEED/BREEAM Cert.
+– Payment Processing                   – Vendor Engagement                 – Move Management
+                                                                                                                                        – Energy Optimization
+– FASB Compliance                      – Capital Planning                  – Strategic Planning
+
+
+
+Portfolio Data &                       – Geographies        – Organizations         – People        – Assets            – Documents          – Reporting & KPI’s
+Core Components                        – Locations          – Financials            – Work Orders   – Workflow          – GIS Mapping        – Transactions
+
+
+
+                                                                                                                           53
+ On-premise licensing model offers
+ TRIRIGA through stand-alone modules
+                          Optimize real estate             Accelerate capital             Improve workplace              Boost operations                       Reduce
+                         and lease accounting                  projects                      experience                     efficiency                        energy costs
+
+Applications                 TRIRIGA Real Estate          TRIRIGA Capital                 TRIRIGA Space Mgt            TRIRIGA Operations                 TRIRIGA RE
+Sold as                      Mgt                          Projects Mgt                    – Request Central            and Maintenance Mgt                Environmental
+stand-alone                  – Request Central            – Request Central               – CAD Integrator             – Request Central                  Sustainability
+                             – BIM Connector              – Facility Condition            – BIM Connector              – BIM Connector
+modules
+                                                            Assessment                                                 – Facility Condition
+                                                                                          TRIRIGA Reservation            Assessment
+                                                           TRIRIGA Capital                Mgt
+                                                           Projects Hub                   – Request Central
+
+
+                                                                                          TRIRIGA Indoor Maps
+                                                                                          – With Esri
+
+
+                             TRIRIGA Reporting
+
+
+Platform
+                             TRIRIGA Application
+Included with                Platform
+                                                           Common Portfolio data and core components            Configurable data model, workflows, user experience, APIs
+                                                                                                                                                                             54
+application
+modules
+              Licensing is a combination of Concurrent and Authorized User, Install, and Sq Foot-based metrics
+Additional Slides
+
+
+
+
+  56
+Is SaaS right for you?
+
+
+                                       You Want…                                              Then…
+
+                                                              IBM Facilities and Real Estate Management on Cloud trades a big, up-
+  TRIRIGA, but lack the capital budget to make the purchase   front purchase with a regular series of subscription payments.
+                                                              Most budgets treat these payments as Operating Expenses
+
+                                                              IBM Facilities and Real Estate Management on Cloud is hosted,
+  TRIRIGA, but lack an IT resource capable of supporting it   managed, and maintained by IBM – the largest technology company
+                                                              in the world
+
+                                                              IBM Facilities and Real Estate Management on Cloud offers four monthly
+  Flexible licensing, because you have a staged deployment    subscription options for end users. The customer can select the right
+                                                              licensing options for each stage of their deployment.
+
+
+
+
+                                                                                                  57
+FAQ – On Cloud (SaaS)&Hosting
+
+Where is the IBM Facilities and Real Estate Management on Cloud service                     How does the service meet security requirements?
+hosted and who supports it?                                                                 The IBM Facilities and Real Estate Management on Cloud environment is compliant with
+The service is hosted in IBM owned and operated IBM Cloud data centers. Support             the most stringent IBM IT Security Standards which meet or exceed the industry standards
+for the service is provided by IBM staff.                                                   like SSAE16 and ISO27000. These standards cover:
+                                                                                            – Network, Data Encryption, Access                  – Service Integrity and Availability
+                                                                                               Control                                          – Vulnerability and patch Management
+Are there differences in the IBM Facilities and Real Estate Management on
+Cloud offering compared to on-premises deployments of IBM TRIRIGA?                          – Application ACLs / Permissions /                  – Denial of Service / Systematic
+                                                                                               Penetration Testing                                  Attacks Detection
+IBM Facilities and Real Estate Management on Cloud uses the same code as IBM
+                                                                                            – Identification, Authentication,                   – Physical Security
+TRIRIGA on-premises deployments. However, there are some differences in configuration
+                                                                                               Authorization
+and packaging.                                                                                                                                  – Security Incident response
+                                                                                            – Information and Data Protection
+IBM Facilities and Real Estate Management on Cloud customers cannot access or change
+configuration parameters below the application layer, such as database or middleware
+configurations. However, IBM Facilities and Real Estate Management on Cloud
+applications are configurable using the Application Builder Tools or create integrations    What services are available to implement the offering?
+using the Connector for Business Applications.                                              On-boarding (setting up the instance for the customer) is included in the subscription.
+IBM Facilities and Real Estate Manager on Cloud will be utilize a continuous delivery       Implementation (loading data, configuring forms, dashboards, business processes,
+model. Platform and technology updates will be performed for all IBM Facilities and Real    reports, setting up integrations, etc.) is not included in the subscription and can be sourced
+Estate Manager on Cloud customers periodically. Application updates will be performed for   from IBM C&SI Lab Services, IBM Global Business Services, and IBM Business Partners.
+IBM Facilities and Real Estate Manager on Cloud customers who elect to maintain an
+As-Shipped configuration. In this case, when application updates are installed all
+configurations using the Application Builder Tools may be overwritten and updated
+with updated as-shipped application functionality.
+                                                                                             Check out the implementation accelerators in the ISM library:
+                                                                                             http://www-304.ibm.com/software/brandcatalog/ismlibrary/search#query=tririga:tririga.
+
+
+
+                                                                                                                                                    58
+FAQ – Purchase & Contracts
+
+What are the minimum and maximum contract terms for the SaaS service?                      Who owns the configured system at the end of a contract period?
+The default contract length is 12 months and the maximum is 60 months. Contracts           Is a customer able to migrate to a self-owned installation?
+can be renewed at the end of the term. There is no minimum.                                IBM owns the configured system since this offering does not include the purchase of the
+                                                                                           software license. IBM offers services to migrate your service to an on-premises installation
+                                                                                           at the end of a contract period.
+Is there a charge for end users?
+                                                                                           The on-premises installation requires a separate purchase of traditional perpetual licenses.
+There are four monthly subscription options for end users. Based on the subscription
+option selected for the user they may execute different functions.
+                                                                                           If my subscription ends, will IBM retain my data?
+– Self Service User:                              – Occasional User:                       Can I get a copy of my data?
+   Create requests, create reservations,             Participate in limited processes,
+   search knowledge base, respond                    limited to tasks, surveys, invoices   Customer data belongs to the customer. Your data is returned to you at the end of your
+   to bid requests, search locations,                and requests for payment, document    contract. Once the data is returned to you, IBM will delete your data from its systems.
+   people, and assets.                               management. Includes functions        You can also request a copy of your data on a quarterly basis during the life of your contract.
+                                                     of Self Service and Approvals and
+– Approvals and Reporting User:                      Reporting users.
+   Participate in approval processes,                                                      Can I migrate my on premise IBM TRIRIGA solution to the Cloud?
+   monitor performance metrics, view              – Enterprise User:
+                                                                                           At this time, there is not a standard offering to migrate prior installations of IBM TRIRIGA
+   reports with read only access to data             Participate in all implemented
+                                                                                           to IBM Facilities and Real Estate Management on Cloud. Services to migrate your
+   and functions of Self Service.                    business processes and
+                                                                                           on-premise IBM TRIRIGA data to the cloud can be sourced from IBM C&SI Lab Services,
+                                                     administrative functions.
+                                                                                           IBM Global Business Services, and IBM Business Partners.
+
+
+
+
+                                                                                                                                                    59
+FAQ – Upgrade & Migration
+
+How are release updates done?
+IBM Facilities and Real Estate Manager on Cloud will be utilize a continuous delivery model. Platform and
+technology updates will be performed for all IBM Facilities and Real Estate Manager on Cloud customers
+periodically. Application updates will be performed for IBM Facilities and Real Estate Manager on Cloud
+customers who elect to maintain an As-Shipped configuration. In this case, when application updates are installed
+all configurations using the Application Builder Tools may be overwritten and updated with updated as-shipped
+application functionality.
+
+Minor releases such as fix packs are applied to a customer’s production and non-production instances (with full
+backups done prior to enable rollback if anything goes wrong).
+
+When IBM moves a customer to a new major release, the customer’s non-production instance will be upgraded.
+There will be a time period by when the customer can test the new release, at which point once the conditions
+are satisfied, the production instance will be upgraded, and the original instance will be retired and archived.
+
+
+
+
+Who decides when release updates are being done, the customer or IBM?
+IBM will announce new version releases and work you to determine an upgrade window depending on your
+requirements and the IBM upgrade schedule.
+
+
+                                                                               60
+FAQ – Integrations & Requirements
+
+
+
+How are typical integrations to        Will IBM upgrade our                  What browsers are supported
+other systems and applications         integrations when a new version       with IBM Facilities and Real
+accomplished?                          of the offering becomes               Estate Management on Cloud ?
+                                       available; will IBM verify that our
+                                       integrations work?
+IBM Facilities and Real Estate                                               Please see the Client
+Management on Cloud supports                                                 Compatibility section of the IBM
+the same types of integrations         When application updates              TRIRIGA Application Platform
+as on-premises IBM TRIRIGA             become available, IBM will apply      Support Matrix at
+deployments. These                     application updates to a non-
+integrations are accomplished          production environment.               https://www.ibm.com/developer
+through web services, web,                                                   works/community/wikis/home?la
+VPN, LDAP, Active directory,           You are responsible for testing       ng=en#!/wiki/IBM%20TRIRIGA1
+CSV file import, and Email.            configurations, including             /page/Client%20Compatibility
+More detail on integrations can        integrations, in the non-             for a list of supported browsers.
+be found in the Extend section         production environment
+of the Service Engage website.         before they are promoted
+                                       to the production environment.
+
+
+                                                                            61
+
